@@ -1,2 +1,1 @@
-Several ProjectEular problems I did in 2016.
-
+Several ProjectEular problems I solved and thought over. 
